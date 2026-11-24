@@ -1,0 +1,13 @@
+{
+ "network": "solana-mainnet",
+ "mint": "HqUfKmTZz5199C975hEwG6yGNXdaJVSuThgBFGu4a5Gs",
+ "decimals": 4,
+ "mint_authority": "8mRhcULcQJJohBxcFRwQxCYTFgiMF8d1SniZUQca4VVV",
+ "created_in_tx": "3VRmjynuiDNFaRRCJLdm5AruKNT58DtMGJkwataaqeFLfNm6gPb1mkAFvZmDX87bgY68Zzd5TJSaBn7xuvyMaMsu",
+ "name": "Writer's Block Blockchain",
+ "symbol": "WBB",
+ "supply_at_launch": 0,
+ "note": "No pre-mine. Supply is born as block rewards.",
+ "metadata_account": "6szuCZEutLYX2oUDntKNEZhLk9UHxWNnJ2jUBc7Td1qo",
+ "metadata_tx": "1JZ8cinFc91NFsRN6W9DNjVvCJMaxJjf7RdVMP6qRhcewSH3kWyiVsawwxjeo8kMu8iyk67jTMzsbhSinbUkWem"
+}

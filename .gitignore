@@ -1,0 +1,7 @@
+# NEVER commit key material
+*keypair*.json
+*wallets*.json
+*-chain.json
+__pycache__/
+*.pyc
+.env

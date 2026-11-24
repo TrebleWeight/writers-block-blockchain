@@ -1,0 +1,42 @@
+{
+ "solana_devnet": {
+  "wallet": {
+   "pubkey": "AmZXSCXvnM1ZwGq3AxGEpmWh838bwhMCCSBkgcC8zSgU",
+   "balance_sol": 0.5
+  },
+  "anchors": {
+   "1": {
+    "solana_signature": "3ndJUKvsBDpyqLR633mpP1p7YqhHRMvr87qzX2cygnmz9oerVt4em3dDvG5a8usqGV7mW53HLziPYmf17o4DLuxc",
+    "memo": "WBC block 1 | hash 7fb5d10a1d9255f8ab117a6030901ab59de61d7752150be71af842f0ab3a9903 | strokes 775 | writers 2: Deke Pryor, Mara Venn",
+    "verified": true
+   },
+   "2": {
+    "solana_signature": "5Ji182YWEYDwXDrCxQNaMrWzYVynBqH8BbUZXywVei1kHnM3o1ntpwyt4TL5KANqxJ8ZqgCzvj2oqNE2NgDsbFJE",
+    "memo": "WBC block 2 | hash 3ea4759e8a5662b4b3cfc1a43834cb787ba4e1466d11d260603a5f9a6671ce1d | strokes 693 | writers 2: Mara Venn, Wren",
+    "verified": true
+   }
+  }
+ },
+ "ethereum_payloads": {
+  "1": {
+   "network": "ethereum-mainnet",
+   "status": "UNSIGNED \u2014 awaiting founder signature",
+   "from": "0x9Bf700ccC46940aC155A0b3083ab4b160fF88Fe6",
+   "to": "0x9Bf700ccC46940aC155A0b3083ab4b160fF88Fe6",
+   "value_eth": 0,
+   "data_calldata": "0x7fb5d10a1d9255f8ab117a6030901ab59de61d7752150be71af842f0ab3a9903",
+   "memo": "WBC block 1 anchor \u2014 775 strokes",
+   "note": "Signing this from the founder's wallet stamps the block hash into Ethereum history permanently. Gas at time of signing is the only cost."
+  },
+  "2": {
+   "network": "ethereum-mainnet",
+   "status": "UNSIGNED \u2014 awaiting founder signature",
+   "from": "0x9Bf700ccC46940aC155A0b3083ab4b160fF88Fe6",
+   "to": "0x9Bf700ccC46940aC155A0b3083ab4b160fF88Fe6",
+   "value_eth": 0,
+   "data_calldata": "0x3ea4759e8a5662b4b3cfc1a43834cb787ba4e1466d11d260603a5f9a6671ce1d",
+   "memo": "WBC block 2 anchor \u2014 693 strokes",
+   "note": "Signing this from the founder's wallet stamps the block hash into Ethereum history permanently. Gas at time of signing is the only cost."
+  }
+ }
+}

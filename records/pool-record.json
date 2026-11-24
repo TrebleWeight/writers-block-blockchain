@@ -1,0 +1,39 @@
+{
+ "venue": "Meteora DAMM v2 (cp-amm)",
+ "created": "2026-11-24T11:52:00Z",
+ "pool": "2xTNGius4AoooT5uwydtooDuPukLWrhmpjRtJcz5FoBW",
+ "config": "bePPTE6Zp5qdEYJxKa6ipV82g3NzVEVZXjdVgHutTVa",
+ "fee": "0.25% static",
+ "tokenA": {
+  "mint": "HqUfKmTZz5199C975hEwG6yGNXdaJVSuThgBFGu4a5Gs",
+  "symbol": "WBB",
+  "seededBaseUnits": "250001",
+  "seeded": "25.0001"
+ },
+ "tokenB": {
+  "mint": "So11111111111111111111111111111111111111112",
+  "symbol": "SOL",
+  "seededLamports": "24000001",
+  "seeded": "0.024000001"
+ },
+ "openingPrice": "0.00096 SOL per WBB (0.024 SOL / 25 WBB, approx $0.067 at $70/SOL)",
+ "creator": "6FwhF17x6ehCsaF5mTjxRqut5SbmEW8sBGVxH2w4qeTN",
+ "positionNftMint": "FMQRp8sLnvyWpiJHyF5kQfpfWgVoLLgTtrUu9xpKKiVG",
+ "position": "4awvWD9PVhBVYZTdyLonB3HbMinnkimLcvvboJj1HYqt",
+ "txs": {
+  "fundLaunchToWriter": "1vxwLY2UoErgjcEQSTr7Muqx1B6Y5WKnartEy4irUfwDVpY5GqZrr2KD6XXNyeeKWxv6zgUigWLSeFJkKtkgAcu",
+  "createPool": "2sNpAbajiicsBs6rVdkr3JKXtGoh6p1A5qRUrrC6Uv93ngwdd8tpP1TpQttNpaKtDDCy8XgGpoHnefAe5MgLZdG5"
+ },
+ "vaults": {
+  "wbb": "EKYTprXDpRP9f17EfnihNvVaGcygr7udHMALJKcwVpRt",
+  "sol": "G9XguA3WQMTKKPWtCNDq9SD54zEuM4VKW8bh7Pm6kwzM"
+ },
+ "writerWalletAfter": {
+  "wbb": "24.9999",
+  "sol": "0.00199172"
+ },
+ "launchWalletAfter": {
+  "sol": "0.00107511"
+ },
+ "note": "Position NFT held by the writer wallet (Anthony Wilkerson, project-custodied). LP not burned or locked. Mint authority intentionally retained by the launch wallet: block rewards are minted at each seal. Launch wallet SOL is nearly drained (0.0011) — a top-up is needed before Block 2 can seal."
+}

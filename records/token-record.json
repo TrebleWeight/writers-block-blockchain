@@ -1,0 +1,8 @@
+{
+ "network": "solana-devnet",
+ "mint": "Btmsp8ASZkmt9uBkGs7AeL47xQUeDuAozt7hwC6cooqU",
+ "decimals": 4,
+ "mint_authority": "AmZXSCXvnM1ZwGq3AxGEpmWh838bwhMCCSBkgcC8zSgU",
+ "created_in_tx": "4DvAAhAXFaFhLHdaN2X4WwZ5GhaegVwzq9hd1LwmKgynToY24HjbBrCwSkoBeY3qzpZGtvRtXF9pHv9JzCnKzkew",
+ "note": "Test instrument on devnet. The coin's name is the founder's to coin; on-chain naming follows his word."
+}
